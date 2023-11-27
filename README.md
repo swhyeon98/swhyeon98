@@ -6,21 +6,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swhyeon98&show_icons=true&theme=radical&layout=compact" alt="Top Langs">
 </p>
 
-## 🛠 Tech Skills.
-### Programming Languages
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+## 🛠 Tech Skills
+### Programming Language
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-### Frameworks & Libraries
+### Framework & Librarie
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 
-### Databases
+### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 
-### Tools
-<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+### Tool
+<img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/MicrosoftTeams-6264A7?style=flat-square&logo=MicrosoftTeams&logoColor=white"/>
 
