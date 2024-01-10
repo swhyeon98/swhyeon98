@@ -1,4 +1,4 @@
-## Hi, there.👋 I'm SeokWon Hyeon. 
+## Hi, there.👋 I'm Seokwon Hyeon. 
 <a href="https://velog.io/@swhyeon98" target="_blank"><img src="https://img.shields.io/badge/MyBlog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/swhyeon98@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 ### ✨ Git Stats
 <p>
