@@ -4,7 +4,7 @@
 
 ### ✨ Git Stats
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swhyeon98&show_icons=true&theme=radical" alt="SeokWon's GitHub stats">
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swhyeon98&show_icons=true&theme=radical" alt="SeokWon's GitHub stats">-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swhyeon98&show_icons=true&theme=radical&layout=compact" alt="Top Langs">
 </p>
 
