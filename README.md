@@ -35,10 +35,11 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>
 
+<!--
 ## 👑 Rating
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smreo75)](https://solved.ac/smreo75/)
-
+-->
 
 <!--
 **swhyeon98/swhyeon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
