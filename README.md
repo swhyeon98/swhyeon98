@@ -10,9 +10,11 @@
 </p>
 -->
 
+<!--
 ## 👑 Rating
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smreo75)](https://solved.ac/smreo75/)
+-->
 
 ## 🛠 Tech Skills
 
